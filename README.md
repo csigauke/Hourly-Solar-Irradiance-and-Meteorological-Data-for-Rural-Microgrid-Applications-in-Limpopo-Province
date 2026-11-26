@@ -1,0 +1,2 @@
+# Hourly-Solar-Irradiance-and-Meteorological-Data-for-Rural-Microgrid-Applications-in-Limpopo-Province
+This data article presents an hourly solar irradiance and meteorological dataset from twelve rural sites in Limpopo, South Africa (2015–2024). The data were used to develop an uncertainty-aware solar forecasting framework combining a spatio-temporal CNN-LSTM model with split conformal prediction and Adaptive Conformal Inference (ACI).
